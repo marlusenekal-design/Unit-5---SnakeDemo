@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "922341179995",
+    "firebase_url": "https://snakedemo-b4d01-default-rtdb.firebaseio.com",
+    "project_id": "snakedemo-b4d01",
+    "storage_bucket": "snakedemo-b4d01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922341179995:android:3717de4b51864b9af9757e",
+        "android_client_info": {
+          "package_name": "com.marlusenekal.snakedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQX250J_Z_AxOG0sL-qPA-vj2BdMQ7xvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
